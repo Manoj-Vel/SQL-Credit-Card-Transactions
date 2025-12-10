@@ -49,7 +49,7 @@ Empower financial institutions and businesses to monitor customer spending habit
 - **Mumbai** contributes the most to total credit card spends.
 - **Fuel** is the most common expense type.
 - **Platinum cards** saw the highest growth in Jan 2014.
-- **Delhi** has the highest weekend spend efficiency.
-- **Chennai** reached 500 transactions the fastest after first txn.
+- **Sonepur** has the highest weekend spend transaction ratio.
+- **Bengaluru** reached 500 transactions the fastest after first txn.
 
 
